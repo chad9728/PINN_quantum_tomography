@@ -1,0 +1,8 @@
+Configuration,Best Fidelity,Final Fidelity,Final Constraint Violation
+Full Model,0.8158,0.8158,3.61e-33
+w/o Residual,0.8115,0.8110,3.29e-33
+w/o Attention,0.7906,0.7902,3.56e-33
+Fixed Weight (0.15),0.8140,0.8140,3.66e-33
+Fixed Weight (0.05),0.8139,0.8139,3.65e-33
+Fixed Weight (0.30),0.8086,0.8086,3.90e-33
+Baseline (w/o all),0.7974,0.7967,4.16e-33
